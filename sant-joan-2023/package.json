@@ -1,0 +1,19 @@
+{
+  "name": "sant-joan-2023",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@vueuse/motion": "^2.0.0"
+  },
+  "devDependencies": {
+    "@unocss/preset-web-fonts": "^0.53.3",
+    "unocss": "^0.53.3"
+  }
+}
